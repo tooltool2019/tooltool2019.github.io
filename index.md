@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+This Privacy Policy informs you of our policies and procedures regarding the collection, use and disclosure of personal information we receive from users of our Facebook applications. This Privacy Policy applies only to information that you provide to us or permit Facebook to provide us. This Privacy Policy may be updated from time to time. We will notify you of any material changes by posting the new Privacy Policy on the primary access points to our games service. You are advised to consult this policy regularly for any changes.
 
-You can use the [editor on GitHub](https://github.com/tooltool2019/tooltool2019.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Information Collection and Use: Personally Identifiable Information
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+In the course of using our games services, you may provide us with personally identifiable information. This refers to information about you that can be used to contact or identify you ("Personal Information"). Personal Information includes, but is not limited to, your name and email address. We use your Personal Information mainly to provide our games services and administer your inquiries.
 
-### Markdown
+We use your Personal Information (in some cases, in conjunction with your Non-Identifying Information) mainly to provide our games services, complete your transactions and administer your inquiries.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+We also use your Personal Information (in some cases, in conjunction with your Non-Identifying Information) to contact you with newsletters, marketing or promotional materials and other information that may be of interest to you. If you decide at any time that you no longer wish to receive such communications from us, please follow the unsubscribe instructions provided in any of the communications.
 
-```markdown
-Syntax highlighted code block
+We do not store your personal information provided by Facebook on our servers for more than 24 hours, except for your Facebook user Id and your email address if you choose to share it.
 
-# Header 1
-## Header 2
-### Header 3
+Information Sharing and Disclosure
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tooltool2019/tooltool2019.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+The following Personal Information from your Facebook profile can be visible to other players of our games on Facebooks: Name, profile picture, and Facebook user Id. Other information collected within our games such as game high scores and collected diplomas, can also be visible to other players of our games.
